@@ -43,3 +43,4 @@ threefold-repetition rule. The latter can be very time consuming
 to check.
 
 You can restart the game from the top left drop down bar.
+We intend to add more game mode in the future.
